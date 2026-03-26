@@ -1,0 +1,14 @@
+# API key
+.env
+
+# Folder contents (but keep the folders via .gitkeep)
+transcripts/*
+!transcripts/.gitkeep
+summaries/*
+!summaries/.gitkeep
+conversations/*
+!conversations/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
