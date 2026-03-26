@@ -1,3 +1,4 @@
-# interview-agent-for-professionals
-Interview agent designed to interview professionals and gather deep insights about them - specifically their personality, background, and how they approach tasks in their profession.
-Front end and Back end
+Please create a .env file and add your api key from groq for your own testing.
+
+The format is:
+GROQ_API_KEY=your_key_here
