@@ -5,7 +5,8 @@ Front end and Back end
 For Cohorts Team:
 Create a branch with your own name and push your version there.
 Structure:
-main → we will pick a version to put here and build off of later, for now it only has a README.md
+
+main → we will pick a version to put here and build off of later, for now it only has a README.md.
 roshan → Roshan's version
 [your name] → your version
 
